@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0004-median-of-two-sorted-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,5 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
