@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
