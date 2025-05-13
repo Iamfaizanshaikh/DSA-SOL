@@ -41,6 +41,7 @@
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1635-number-of-good-pairs) |
+| [2650-split-with-minimum-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2650-split-with-minimum-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2650-split-with-minimum-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2650-split-with-minimum-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
+## Greedy
+|  |
+| ------- |
+| [2650-split-with-minimum-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2650-split-with-minimum-sum) |
 <!---LeetCode Topics End-->
