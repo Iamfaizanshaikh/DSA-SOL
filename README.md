@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
