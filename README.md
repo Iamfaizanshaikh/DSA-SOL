@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
@@ -50,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -100,6 +102,7 @@
 | [0011-container-with-most-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
