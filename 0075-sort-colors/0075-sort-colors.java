@@ -1,39 +1,55 @@
 class Solution {
     public void sortColors(int[] nums) {
 
-        int zcount=0;
-        int ocount=0;
-        int tcount=0;
+        // int zcount=0;
+        // int ocount=0;
+        // int tcount=0;
 
-        int z=0;
+        // int z=0;
 
-        for(int i=0; i<nums.length; i++){
-            if(nums[i]==0){
-                zcount++;
-            }
-             if(nums[i]==1){
-                ocount++;
-            }
-             if(nums[i]==2){
-                tcount++;
-            }
+        // for(int i=0; i<nums.length; i++){
+        //     if(nums[i]==0){
+        //         zcount++;
+        //     }
+        //      if(nums[i]==1){
+        //         ocount++;
+        //     }
+        //      if(nums[i]==2){
+        //         tcount++;
+        //     }
+        // }
+
+        // for(int j=0; j<zcount; j++){
+        //     nums[z]=0;
+        //     z++;
+
+        // }
+        //   for(int j=0; j<ocount; j++){
+        //     nums[z]=1;
+        //     z++;
+
+        // }
+        //   for(int j=0; j<tcount; j++){
+        //     nums[z]=2;
+        //     z++;
+
+        // }
+
+        
+        int zcount = 0;
+        int ocount = 0;
+        int tcount = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 0) zcount++;
+            else if (nums[i] == 1) ocount++;
+            else if (nums[i] == 2) tcount++;
         }
 
-        for(int j=0; j<zcount; j++){
-            nums[z]=0;
-            z++;
-
-        }
-          for(int j=0; j<ocount; j++){
-            nums[z]=1;
-            z++;
-
-        }
-          for(int j=0; j<tcount; j++){
-            nums[z]=2;
-            z++;
-
-        }
+        int z = 0;
+        for (int j = 0; j < zcount; j++) nums[z++] = 0;
+        for (int j = 0; j < ocount; j++) nums[z++] = 1;
+        for (int j = 0; j < tcount; j++) nums[z++] = 2;
 
 
 
