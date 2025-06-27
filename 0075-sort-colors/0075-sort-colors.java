@@ -47,7 +47,7 @@ class Solution {
 
 
 
-          // for (int i = 0; i < nums.length; i++) {
+        //   for (int i = 0; i < nums.length; i++) {
         //     if (nums[i] == 0) zcount++;
         //     else if (nums[i] == 1) ocount++;
         //     else if (nums[i] == 2) tcount++;
