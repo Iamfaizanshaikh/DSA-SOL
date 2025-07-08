@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0136-single-number) |
@@ -53,6 +54,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -86,6 +88,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1677-matrix-diagonal-sum) |
