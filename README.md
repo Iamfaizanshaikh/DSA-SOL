@@ -115,6 +115,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0242-valid-anagram) |
 | [1899-count-items-matching-a-rule](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -125,6 +126,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
