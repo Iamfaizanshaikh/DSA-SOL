@@ -41,6 +41,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
