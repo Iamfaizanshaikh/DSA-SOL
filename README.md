@@ -42,6 +42,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2169-simple-bank-system](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2169-simple-bank-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -161,4 +164,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
