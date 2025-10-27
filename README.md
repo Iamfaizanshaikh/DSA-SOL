@@ -17,6 +17,7 @@
 | [0075-sort-colors](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0242-valid-anagram) |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2169-simple-bank-system) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
