@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0074-search-a-2d-matrix) |
@@ -83,6 +84,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -113,6 +115,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
