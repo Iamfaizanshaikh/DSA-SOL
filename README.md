@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0075-sort-colors) |
@@ -99,6 +100,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1505-create-target-array-in-the-given-order) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
