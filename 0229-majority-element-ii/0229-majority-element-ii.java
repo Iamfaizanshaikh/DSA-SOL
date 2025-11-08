@@ -1,6 +1,7 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
     List<Integer> list=new ArrayList<>();
+    if(nums.length==0 || nums==null ) return list;
     int n=nums.length/3;
     
       
