@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +62,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0560-subarray-sum-equals-k) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -139,6 +142,7 @@
 | [0075-sort-colors](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
