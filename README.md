@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
