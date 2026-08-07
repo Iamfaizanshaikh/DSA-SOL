@@ -2,11 +2,6 @@ class Solution {
     public int[] sortedSquares(int[] nums) {
 
       
-        // for(int m=0; m<nums.length; m++){
-            
-        //     nums[m]=(nums[m]*nums[m]);
-                
-        // }
 
         int i=0;
         int j=nums.length-1;
@@ -22,7 +17,7 @@ class Solution {
                 i++;
                 
             }
-            else if(num2>=num1){
+            else{
                 ans[k]=num2*num2;
                 j--;
             }
