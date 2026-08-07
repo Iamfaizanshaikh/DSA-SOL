@@ -2,12 +2,11 @@ class Solution {
     public int[] sortedSquares(int[] nums) {
 
       
-        for(int m=0; m<nums.length; m++){
+        // for(int m=0; m<nums.length; m++){
             
-            nums[m]=(nums[m]*nums[m]);
-            
-           
-        }
+        //     nums[m]=(nums[m]*nums[m]);
+                
+        // }
 
         int i=0;
         int j=nums.length-1;
@@ -16,13 +15,15 @@ class Solution {
 
 
         while(k>=0){
-            if(nums[i]>=nums[j]){
-                ans[k]=nums[i];
+            int num1=Math.abs(nums[i]);
+            int num2=Math.abs(nums[j]);
+            if(num1>=num2){
+                ans[k]=num1*num1;
                 i++;
                 
             }
-            else if(nums[j]>=nums[i]){
-                ans[k]=nums[j];
+            else if(num2>=num1){
+                ans[k]=num2*num2;
                 j--;
             }
 
@@ -32,9 +33,6 @@ class Solution {
         }
 
 
-      
-
-        // Arrays.sort(nums);
         return ans;
         
     }
