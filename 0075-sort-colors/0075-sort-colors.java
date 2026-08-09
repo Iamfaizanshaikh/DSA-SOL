@@ -1,51 +1,115 @@
 class Solution {
     public void sortColors(int[] nums) {
 
-        
-    
-
         int low=0;
         int mid=0;
         int high=nums.length-1;
+
         while(mid<=high){
-
-            if (nums[mid] == 0) {
-
-                int temp=nums[mid];
-                nums[mid]=nums[low];
-                nums[low]=temp;
-
-                
-                low++;
-                mid++;
-                }
-
-            else if (nums[mid] == 1) {
-                mid++;
-                }
-
-            else  {
-
-                int temp= nums[mid];
+            if(nums[mid]==2){
                 nums[mid]=nums[high];
-                nums[high]=temp;
+                nums[high]=2;
                 high--;
-            
-            
-            
-            
             }
 
+            else if(nums[mid]==0){
+                nums[mid]=nums[low];
+                nums[low]=0;
+                low++;
+                mid++;
+            }
+            else{
+                mid++;
+            }
+          
+        
 
 
         }
 
-      
-
-      
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // int left=0;
+        // int right=nums.length-1;
+
+        // while(left<=right){
+        //     if(nums[left]>nums[right]){
+        //         int temp=nums[left];
+        //         nums[left]=nums[right];
+        //         nums[right]=temp;
+        //         left++;
+        //         right--;
+                
+        //     }
+        //     else{
+        //         left++;
+        //         right--;
+        //     }
+       
+        // }
+
+
+
+
+
+
+        
+    
+
+        // int low=0;
+        // int mid=0;
+        // int high=nums.length-1;
+        // while(mid<=high){
+
+        //     if (nums[mid] == 0) {
+
+        //         int temp=nums[mid];
+        //         nums[mid]=nums[low];
+        //         nums[low]=temp;
+
+                
+        //         low++;
+        //         mid++;
+        //         }
+
+        //     else if (nums[mid] == 1) {
+        //         mid++;
+        //         }
+
+        //     else  {
+
+        //         int temp= nums[mid];
+        //         nums[mid]=nums[high];
+        //         nums[high]=temp;
+        //         high--;
+            
+            
+            
+            
+        //     }
+
+
+
+        // }
 
         //   for (int i = 0; i < nums.length; i++) {
         //     if (nums[i] == 0) zcount++;
