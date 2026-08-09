@@ -1,7 +1,7 @@
 class Solution {
     public void reverseString(char[] s) {
        
-        // char[] arr = {'h', 'e', 'l', 'l', 'o'};
+       
         
         int left = 0;
         int right = s.length - 1;
@@ -15,7 +15,7 @@ class Solution {
             left++;
             right--;
         }
-        Arrays.toString(s);
+       
         
         
         }
