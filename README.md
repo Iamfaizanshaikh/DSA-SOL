@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0054-spiral-matrix) |
@@ -191,6 +192,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0125-valid-palindrome) |
@@ -220,6 +222,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -236,10 +239,12 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Number Theory
 |  |
