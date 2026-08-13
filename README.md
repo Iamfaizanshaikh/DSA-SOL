@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0169-majority-element) |
@@ -175,6 +176,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0242-valid-anagram) |
@@ -269,5 +271,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
