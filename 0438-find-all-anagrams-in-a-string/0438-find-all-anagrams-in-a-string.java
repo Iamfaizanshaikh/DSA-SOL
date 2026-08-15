@@ -9,7 +9,7 @@ class Solution {
         int[] comp = new int[26];
 
         int size = p.length();
-        int num=0;
+        
 
         for(int i = 0; i < size; i++){
             freq[p.charAt(i) - 'a']++;
@@ -25,13 +25,13 @@ class Solution {
         while(right <= s.length()){
 
             if(Arrays.equals(freq, comp)){
-                list.add(num);
+                list.add(left);
             }
 
             if(right == s.length()){
                 break;
             }
-            num++;
+            
 
             comp[s.charAt(left) - 'a']--;
             left++;
