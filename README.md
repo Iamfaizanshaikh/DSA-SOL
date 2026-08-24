@@ -49,6 +49,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1480-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1505-create-target-array-in-the-given-order) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
