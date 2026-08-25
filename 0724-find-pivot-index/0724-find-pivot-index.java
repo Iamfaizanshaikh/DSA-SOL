@@ -3,8 +3,8 @@ class Solution {
 
 
         int total=0;
-        for(int num: nums){
-            total+=nums[num];
+        for(int num : nums){
+            total += num;
         }
         int leftsum=0;
 
