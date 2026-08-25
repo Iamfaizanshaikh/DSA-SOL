@@ -43,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0898-transpose-matrix) |
@@ -157,6 +158,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1833-find-the-highest-altitude) |
