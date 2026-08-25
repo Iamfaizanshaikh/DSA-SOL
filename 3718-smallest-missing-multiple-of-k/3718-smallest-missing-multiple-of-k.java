@@ -4,17 +4,17 @@ class Solution {
         for(int i=0; i<nums.length; i++){
 
             if(nums[i]%k==0){
-                set.add(nums[i]/k);
+                set.add(nums[i]);
 
             }
 
         }
        
-        for(int i=1; i<=nums.length; i++){
+        for(int i=k; ; i+=k){
             
-            if(!set.contains(i)) return i*k;
+            if(!set.contains(i)) return i;
         }
-        return (nums.length+1)*k;
+        
         
     }
 }
