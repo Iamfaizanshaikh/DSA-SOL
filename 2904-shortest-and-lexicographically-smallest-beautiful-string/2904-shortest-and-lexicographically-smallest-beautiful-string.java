@@ -1,0 +1,34 @@
+class Solution {
+    public String shortestBeautifulSubstring(String s, int k) {
+
+        int left = 0;
+        int num = 0;
+
+        String ans = "";
+
+        for (int right = 0; right < s.length(); right++) {
+
+            if (s.charAt(right) == '1') {
+                num++;
+            }
+
+            while (num == k) {
+                String curr = s.substring(left, right + 1);
+
+                if (ans.equals("") || curr.length() < ans.length() || (curr.length() == ans.length() &&
+                     curr.compareTo(ans) < 0)) {
+
+                    ans = curr;
+                }
+
+                if (s.charAt(left) == '1') {
+                    num--;
+                }
+
+                left++;
+            }
+        }
+
+        return ans;
+    }
+}
