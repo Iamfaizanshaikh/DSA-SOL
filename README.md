@@ -39,6 +39,7 @@
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +92,7 @@
 | [0229-majority-element-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0567-permutation-in-string) |
@@ -116,6 +118,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0875-koko-eating-bananas) |
@@ -202,6 +205,7 @@
 | [0229-majority-element-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -247,6 +251,7 @@
 | [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
