@@ -11,7 +11,7 @@ class Solution {
         if(vote==0){
             me=nums[i];
         }
-        if(me==nums[i]){
+        else if(me==nums[i]){
             vote++;
         }
         else{
