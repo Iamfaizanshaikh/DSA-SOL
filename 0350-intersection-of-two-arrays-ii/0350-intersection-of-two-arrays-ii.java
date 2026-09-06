@@ -1,10 +1,10 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        Map<Integer,Integer> map= new HashMap<>();
-        
+        Map<Integer,Integer> map = new HashMap<>();
         for(int num:nums1){
             map.put(num,map.getOrDefault(num,0)+1);
         }
+
         List<Integer> list= new ArrayList<>();
 
         for(int num: nums2){
@@ -13,12 +13,16 @@ class Solution {
                 map.put(num,map.get(num)-1);
 
             }
-        }
-        int[] arr = new int[list.size()];
-        for(int i=0; i<arr.length; i++){
-            arr[i]=list.get(i);
 
         }
-        return arr;
+        int[] ans= new int[list.size()];
+        for(int i=0; i<ans.length; i++){
+            ans[i]=list.get(i);
+        }
+
+        return ans;
+
+       
     }
 }
+
