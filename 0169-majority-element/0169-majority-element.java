@@ -4,10 +4,10 @@ class Solution {
 
  
 
-       int n= nums.length;
+      
        int me=0;
        int vote=0;
-       for(int i=0; i<n; i++){
+       for(int i=0; i<nums.length; i++){
         if(vote==0){
             me=nums[i];
         }
