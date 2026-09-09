@@ -8,7 +8,12 @@ class Solution {
             Arrays.sort(ch);
             String sorted= new String(ch);
 
-            map.computeIfAbsent(sorted, k-> new ArrayList()).add(s);
+            if(!map.containsKey(sorted)){
+                map.put(sorted, new ArrayList<>());
+            }
+            map.get( sorted).add(s);
+
+            // map.computeIfAbsent(sorted, k-> new ArrayList()).add(s);
         }
 
         return new ArrayList<>(map.values());
