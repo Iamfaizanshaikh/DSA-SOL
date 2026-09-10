@@ -159,6 +159,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3870-count-commas-in-range](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
