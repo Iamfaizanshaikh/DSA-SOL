@@ -149,6 +149,7 @@
 | [0050-powx-n](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0836-rectangle-overlap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1635-number-of-good-pairs) |
@@ -377,4 +378,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
