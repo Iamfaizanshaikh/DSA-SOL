@@ -60,6 +60,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -111,6 +112,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -143,6 +145,7 @@
 | [0875-koko-eating-bananas](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
@@ -321,6 +324,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0410-split-array-largest-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Design
@@ -368,6 +372,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Enumeration
 |  |
