@@ -192,6 +192,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2288-count-operations-to-obtain-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
