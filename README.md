@@ -60,6 +60,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1480-running-sum-of-1d-array) |
@@ -201,6 +202,7 @@
 | [0410-split-array-largest-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1833-find-the-highest-altitude) |
@@ -380,6 +382,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Enumeration
