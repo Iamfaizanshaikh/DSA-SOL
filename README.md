@@ -116,6 +116,7 @@
 | [0409-longest-palindrome](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -233,6 +234,7 @@
 | [0169-majority-element](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1635-number-of-good-pairs) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -250,6 +252,7 @@
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -276,6 +279,7 @@
 | [0409-longest-palindrome](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0796-rotate-string) |
@@ -429,4 +433,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
