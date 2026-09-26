@@ -78,6 +78,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1791-richest-customer-wealth](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1791-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1899-count-items-matching-a-rule) |
@@ -124,6 +125,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1635-number-of-good-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -287,6 +289,7 @@
 | [0796-rotate-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1899-count-items-matching-a-rule](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2032-largest-odd-number-in-string) |
