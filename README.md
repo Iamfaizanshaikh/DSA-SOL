@@ -125,6 +125,7 @@
 | [0567-permutation-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0930-binary-subarrays-with-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1635-number-of-good-pairs) |
@@ -293,6 +294,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -411,6 +413,7 @@
 | [0904-fruit-into-baskets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
