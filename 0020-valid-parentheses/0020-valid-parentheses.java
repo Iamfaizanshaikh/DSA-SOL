@@ -8,8 +8,6 @@ class Solution {
             }
             else if(ch==')' || ch=='}' || ch==']'){
                 if(st.isEmpty()) return false;
-
-
                 char top=st.pop();
                 if(ch==')' && top != '(') return false;
                 if(ch=='}' && top != '{') return false;
