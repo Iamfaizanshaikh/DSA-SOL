@@ -59,6 +59,7 @@
 | [0904-fruit-into-baskets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1248-count-number-of-nice-subarrays) |
@@ -126,6 +127,7 @@
 | [0567-permutation-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -248,6 +250,7 @@
 | [0229-majority-element-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0992-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1635-number-of-good-pairs) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -416,6 +419,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
