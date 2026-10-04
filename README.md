@@ -301,6 +301,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1021-remove-outermost-parentheses) |
@@ -353,6 +354,7 @@
 | [0011-container-with-most-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0680-valid-palindrome-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -368,6 +370,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -385,6 +388,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -450,6 +454,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
