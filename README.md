@@ -305,6 +305,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -357,6 +358,7 @@
 | [0410-split-array-largest-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2032-largest-odd-number-in-string) |
@@ -391,6 +393,7 @@
 | [0042-trapping-rain-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -458,6 +461,7 @@
 | [0020-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
