@@ -287,6 +287,7 @@
 | [0013-roman-to-integer](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0125-valid-palindrome) |
@@ -367,6 +368,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0118-pascals-triangle) |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0856-score-of-parentheses) |
@@ -459,6 +462,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0921-minimum-add-to-make-parentheses-valid) |
