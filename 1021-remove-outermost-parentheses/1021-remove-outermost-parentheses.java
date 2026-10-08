@@ -3,9 +3,8 @@ class Solution {
         int balance =0;
         String ans="";
 
-        Stack<Character> stack= new Stack<>();
-
-        for(char ch: s.toCharArray()){
+        for(int i=0; i<s.length(); i++){
+            char ch= s.charAt(i);
 
             if(ch=='('){
                 if(balance!=0){
