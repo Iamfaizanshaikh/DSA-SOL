@@ -93,6 +93,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -453,6 +454,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
