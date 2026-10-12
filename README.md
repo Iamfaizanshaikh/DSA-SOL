@@ -94,6 +94,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -140,6 +141,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -356,6 +358,7 @@
 | [0136-single-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
@@ -372,6 +375,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2032-largest-odd-number-in-string) |
 | [2650-split-with-minimum-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2650-split-with-minimum-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
