@@ -92,6 +92,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -176,6 +177,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1539-kth-missing-positive-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2650-split-with-minimum-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2650-split-with-minimum-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -379,6 +382,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2032-largest-odd-number-in-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2650-split-with-minimum-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2650-split-with-minimum-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -507,6 +511,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
