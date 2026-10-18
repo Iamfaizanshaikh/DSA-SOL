@@ -195,6 +195,7 @@
 | [0048-rotate-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1248-count-number-of-nice-subarrays) |
@@ -372,6 +373,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -446,6 +448,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
 |  |
