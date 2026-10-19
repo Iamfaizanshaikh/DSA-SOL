@@ -88,6 +88,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2169-simple-bank-system](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -180,6 +181,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
@@ -289,6 +291,7 @@
 | [0455-assign-cookies](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2650-split-with-minimum-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2650-split-with-minimum-sum) |
