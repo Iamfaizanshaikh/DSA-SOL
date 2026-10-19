@@ -54,6 +54,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0898-transpose-matrix) |
@@ -390,6 +391,7 @@
 | [0455-assign-cookies](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
