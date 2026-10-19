@@ -3,10 +3,9 @@ class Solution {
         int count=0;
 
         while(n>0){
-            if(n%2==1){
-                count++;
-            }
-            n=n/2;
+           
+            count+= n&1;
+            n=n>>1;
         }
 
         return count;
