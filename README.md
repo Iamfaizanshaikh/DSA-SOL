@@ -382,6 +382,7 @@
 | [0231-power-of-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Greedy
