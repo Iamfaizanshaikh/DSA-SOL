@@ -437,6 +437,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0303-range-sum-query-immutable) |
 | [2169-simple-bank-system](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2169-simple-bank-system) |
 ## Union Find
@@ -449,6 +450,7 @@
 | [0020-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -513,6 +515,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
