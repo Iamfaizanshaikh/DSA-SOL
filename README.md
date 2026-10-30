@@ -58,6 +58,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0875-koko-eating-bananas) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1505-create-target-array-in-the-given-order) |
@@ -457,6 +459,7 @@
 | [0496-next-greater-element-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1021-remove-outermost-parentheses) |
