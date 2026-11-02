@@ -51,6 +51,7 @@
 | [0410-split-array-largest-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0503-next-greater-element-ii) |
@@ -214,6 +215,7 @@
 | [0231-power-of-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1248-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -307,6 +309,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2089-find-target-indices-after-sorting-array) |
