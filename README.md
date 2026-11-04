@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0189-rotate-array) |
@@ -402,6 +403,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0191-number-of-1-bits) |
