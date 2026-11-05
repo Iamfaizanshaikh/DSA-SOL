@@ -74,6 +74,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -193,6 +194,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1539-kth-missing-positive-number) |
@@ -314,6 +316,7 @@
 | [0455-assign-cookies](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -399,6 +402,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0861-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
