@@ -628,4 +628,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
