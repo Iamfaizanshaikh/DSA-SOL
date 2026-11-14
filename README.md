@@ -115,6 +115,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -280,6 +281,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1833-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
@@ -550,6 +552,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
