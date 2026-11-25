@@ -118,6 +118,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -244,6 +245,7 @@
 | [2409-count-days-spent-together](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2409-count-days-spent-together) |
 | [2650-split-with-minimum-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2650-split-with-minimum-sum) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -528,6 +530,7 @@
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
 | ------- |
@@ -565,10 +568,12 @@
 | [2747-count-zero-request-servers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3886-sum-of-sortable-integers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3886-sum-of-sortable-integers) |
