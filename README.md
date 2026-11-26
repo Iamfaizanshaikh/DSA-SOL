@@ -245,6 +245,7 @@
 | [2409-count-days-spent-together](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2409-count-days-spent-together) |
 | [2650-split-with-minimum-sum](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2650-split-with-minimum-sum) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3360-stone-removal-game](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -271,6 +272,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/2288-count-operations-to-obtain-zero) |
+| [3360-stone-removal-game](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
