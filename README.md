@@ -221,6 +221,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Iamfaizanshaikh/DSA-SOL/tree/master/0048-rotate-image) |
